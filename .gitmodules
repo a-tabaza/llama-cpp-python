@@ -1,3 +1,7 @@
 [submodule "vendor/llama.cpp"]
 	path = vendor/llama.cpp
 	url = https://github.com/ggerganov/llama.cpp.git
+[submodule "vendor/llama.cpp.qwen2.5vl"]
+	path = vendor/llama.cpp.qwen2.5vl
+	url = https://github.com/HimariO/llama.cpp.qwen2.5vl.git
+	branch = qwen25-vl-20250404
